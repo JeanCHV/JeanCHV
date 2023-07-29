@@ -1,10 +1,19 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
-<h1 align="center">Hi 👋, I'm Jeancarlos</h1>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="754" height="565">
+[MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<h1 align="center">< Hello World 👋, I'm Jeancarlos/> </h1>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <h3 align="center">A passionate developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanchv&label=Profile%20views&color=0e75b6&style=flat" alt="jeanchv" /> </p>
+- 🔭 I’m currently working on **GymSys Web App**
 
+- 🌱 I’m currently learning **TypeScript**
+
+- 💬 Ask me about **Java,Pyton, SQL**
+
+- 📫 How to reach me **jc_26.10@hotmail.com**
+
+- ⚡ Fun fact **I am Funny**
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanchv" alt="jeanchv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
